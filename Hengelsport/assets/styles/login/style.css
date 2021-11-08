@@ -1,0 +1,63 @@
+/* Variables */
+/* Functions */
+body {
+  background: #55bfff;
+}
+
+form {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin: 10px 5px;
+  width: 35%;
+  height: 50%;
+  background: white;
+  border-radius: 20px;
+  background: #8fd4ff;
+  -webkit-box-shadow: 10px 10px 28px 0px rgba(0, 0, 0, 0.75);
+          box-shadow: 10px 10px 28px 0px rgba(0, 0, 0, 0.75);
+  letter-spacing: 1px;
+  color: darkblue;
+}
+
+form #input-1 {
+  width: 50%;
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin: 10px 5px;
+}
+
+form #input-2 {
+  width: 50%;
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin: 10px 5px;
+}
+
+form .btn {
+  position: absolute;
+  left: 50%;
+  top: 70%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin: 10px 5px;
+}
+
+.alert {
+  width: 35%;
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin: 10px 5px;
+}
+/*# sourceMappingURL=style.css.map */

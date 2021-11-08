@@ -1,0 +1,22 @@
+/* Variables */
+/* Functions */
+h3 {
+  color: darkblue;
+}
+
+.home-pic {
+  position: absolute;
+  left: 45%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin: 10px 5px;
+}
+
+.home-pic img {
+  width: 150%;
+  border-radius: 50px;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/*# sourceMappingURL=home.css.map */

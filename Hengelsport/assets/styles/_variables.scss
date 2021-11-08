@@ -1,0 +1,13 @@
+/* Variables */
+$link-color: lightblue;
+
+/* Functions */
+@mixin center{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin: 10px 5px;
+}
+
